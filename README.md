@@ -1,8 +1,8 @@
 # Projeto Aplicado I - Saneamento em Carapicuíba (SP)
 
 ## Sumário
-- [Apresentação Canvas](#canvas)
-- [Apresentação YouTube](#youtube)
+- [Apresentação Canvas](#apresentação-no-canvas)
+- [Apresentação YouTube](#apresentação-no-youtube)
 - [Objetivo](#objetivo)
 - [Dataset](#dataset)
 - [Organização do Repositório](#organização-do-repositório)
